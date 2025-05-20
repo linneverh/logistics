@@ -1,0 +1,55 @@
+Cluster,City,Capacity Value Weight
+0,"['ciudad de mexico', 'cuauhtemoc', 'miguel hidalgo', 'coyoacan', 'huixquilucan', 'gustavo a. madero', 'alvaro obregon', 'iztapalapa', 'naucalpan de juarez', 'cuernavaca', 'nezahualcoyotl', 'tlalpan', 'azcapotzalco', 'cuautitlan izcalli', 'atizapan de zaragoza', 'ecatepec de morelos', 'toluca', 'cuajimalpa de morelos', 'tlalnepantla de baz', 'metepec', 'naucalpan', 'iztacalco', 'texcoco', 'tecamac', 'cuautitlan', 'solidaridad', 'cuajimalpa', 'tlalnepantla', 'magdalena contreras', 'xochimilco', 'ecatepec', 'jiutepec', 'teoloyucan', 'ixtapaluca', 'coacalco de berriozabal', 'tultitlan', 'lerma', 'tepoztlan', 'san mateo atenco', 'tlahuac', 'huixquilucan, estado de mexico', 'calimaya', 'ciudad lopez mateos', 'gustavo a madero', 'atizapan', 'coacalco', 'nicolas romero', 'chalco', 'huixquilucan de degollado']",
+1,['venustiano carranza'],4854.893
+2,"['san andres cholula', 'puebla', 'san pedro cholula', 'cuautlancingo', 'tlaxcala', 'atlixco', 'ocoyucan', 'coronango']",313.848
+3,"['zapopan', 'guadalajara', 'tlajomulco de zuniga', 'tlaquepaque', 'zapopan, jalisco', 'san pedro tlaquepaque', 'zapopan jalisco', 'guadalajara, jalisco', 'guadalajara jalisco', 'tlajomulco']",3061.86
+4,"['monterrey', 'san pedro garza garcia', 'santa catarina', 'san nicolas de los garza', 'apodaca', 'guadalupe', 'garcia', 'general escobedo', 'monterrey, nuevo leon', 'monterrey nuevo leon', 'guadalupe, nuevo leon']",2919.247
+5,['queretaro'],53.686
+6,"['benito juarez', 'cancun', 'playa del carmen', 'puerto morelos']",1122.641
+7,"['merida', 'merida, yucatan', 'merida yucatan']",418.81800000000004
+8,['san luis potosi'],478.516
+9,"['leon', 'lopez mateos', 'leon, guanajuato']",236.506
+10,"['puerto vallarta', 'bahia de banderas']",216.452
+11,"['xalapa', 'veracruz']",350.088
+12,['saltillo'],101.15800000000002
+13,"['el marques', 'corregidora', 'santiago de queretaro', 'el marques, queretaro', 'corregidora, queretaro']",54.631
+14,['aguascalientes'],
+15,['morelia'],163.592
+16,['culiacan'],126.91
+17,['chihuahua'],4.949999999999999
+18,"['oaxaca de juarez', 'oaxaca']",61.096000000000004
+19,['celaya'],129.648
+20,['tulum'],172.214
+21,['san miguel de allende'],24.025
+22,"['pachuca', 'pachuca de soto', 'mineral de la reforma']",15.948
+23,['tijuana'],45.608999999999995
+24,['boca del rio'],2.479
+25,"['colima', 'manzanillo', 'villa de alvarez']",134.10000000000002
+26,['hermosillo'],160.594
+27,['villahermosa'],1.82
+28,['la paz'],22.918
+29,['mazatlan'],59.799
+30,['tuxtla gutierrez'],81.14
+31,"['san jose del cabo', 'cabo san lucas']",158.868
+32,['san juan del rio'],
+33,['puerto escondido'],
+34,['coatzacoalcos'],
+35,"['acapulco', 'acapulco de juarez']",41.0
+36,['mexicali'],162.489
+37,"['orizaba', 'cordoba']",5.229
+38,['juarez'],
+39,['alvarado'],
+40,['tepic'],
+41,['tonala'],23.363
+42,['durango'],14.042
+43,['torreon'],
+44,['leon guanajuato'],
+45,['san cristobal de las casas'],
+46,['tampico'],182.712
+47,['ramos arizpe'],
+48,['san pedro'],
+49,['campeche'],
+50,['los mochis'],
+51,['cuautla'],
+52,['ensenada'],90.61
+53,['tehuacan'],
