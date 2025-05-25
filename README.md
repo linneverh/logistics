@@ -11,9 +11,9 @@ Everything you need for the project is on this [github repository](https://githu
 
 ## How to Use the Project
 
-You can find the data we used to conduct our analysis, together with a data EDA, in this [Data file](https://github.com/linneverh/logistics/tree/main/Data).
+You can find the data we used to conduct our analysis in this [Data file](https://github.com/linneverh/logistics/tree/main/Data).
 
-For the coding part, we have divided the work into X code files that you can directly run via the github repository: 
+For the coding part, we have divided the work into X code files that you can directly run via the [Code file](https://github.com/linneverh/logistics/tree/main/Code) of the github repository: 
 
 - [Link](Link). 
 - [Link](Link).
