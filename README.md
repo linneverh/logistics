@@ -1,7 +1,7 @@
 # Logistics: Ikano Retail (IKEA Mexico) 
 Sana Almagbaly, Apolline Bertin, Olivia Lavén & Linne Verhoeven
 
-We explore the intersection of e-commerce growth and sustainability in Mexico, focusing on IkanoRetail, an IKEA franchise offering home furnishing products. I
+We explore the intersection of e-commerce growth and sustainability in Mexico, focusing on IkanoRetail, an IKEA franchise offering home furnishing products.
 
 All code, data and visualizations are included in this repository.
    
